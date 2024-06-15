@@ -1,6 +1,8 @@
 $
 $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 %24rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
+%?slogin%
+%?ysclid%
 &solved=
 ,
 -
@@ -57,20 +59,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /*source=
 /.git
 /?z=1
-/B00M3E1HJY
-/B00M3E1NYI
-/B00M3E1Q5Y
-/B00M3E1TOM
-/B00M3E1WYO
-/B00M3E204K
-/B00M3E236A
-/B00M3E260I
-/B00M3E28WO
-/B00M3E2BC6
-/B00M3E2DPQ
-/B00M3E2GU8
-/B00M3E2J14
-/B00M3E2LOE
 /MANUALS/*.pdf$
 /Search/
 /_
@@ -158,7 +146,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /security/search-results.aspx?
 /shop/*/favoriters
 /shop/*/sold
-/sim/B001132UEE
 /stats?id=
 /store/*/layout/
 /store/*/search/
@@ -567,6 +554,7 @@ apps
 apps*&tags=
 apps/publish
 apps?act=search_page&tags=
+archive
 archive/lifestyle/wellness/1999/01/19/an-illness-no-one-understands-tourettes-syndrome/852df0cc-2164-4c83-be8d-0c770d028547
 archives
 articles
@@ -839,6 +827,7 @@ blog/*/comments
 blog/*/feed
 blog/*/trackback
 blog/following
+blogs
 blogs/nationals-journal-beta
 blogs/slow-ride
 blogs/test
@@ -1017,6 +1006,7 @@ call?id=
 calls
 canada/Library/mnp/2/aspx/
 cap
+card/panel
 cart
 cart?
 categories/Halloween
@@ -2035,8 +2025,8 @@ hotelfinder/rpc
 hotels/rpc
 hp/video
 hpc/*/supported-applications.aspx?
-http://amazon.co.uk/robots.txt
-http://ec.europa.eu/robots.txt
+http://i2.wp.com/robots.txt
+http://m.facebook.com/robots.txt
 hub?category=
 hz/contact-us/ajax/initiate-trusted-contact
 hz/help/contact/*/message/$
@@ -3375,7 +3365,7 @@ shopping/reviewer
 shopping/seller
 shopping/suppliers/search
 shopping?
-showtimes/location/*http://bloomberg.com/robots.txt
+showtimes/location/*http://amazon.co.uk/robots.txt
 sidewiki/entry
 signature
 signin/inject
@@ -3755,6 +3745,7 @@ subscribe/braintree
 subscribe/enterpriseportal
 subscribe/foryouapi
 subscribe/lagoon
+subscribe/logging
 subscribe/offers/service
 subscribe/onsiteapi
 subscribe/paywall
